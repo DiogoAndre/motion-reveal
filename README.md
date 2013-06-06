@@ -10,7 +10,7 @@ This is a very simple gem. Check the [lib/motion-reveal.rb](https://github.com/D
 
 ### With Bundler
 
-1. install the motion-reveal gem
+1. Add motion-reveal gem to your Gemfile
 ```ruby
 gem 'motion-reveal'
 ```
