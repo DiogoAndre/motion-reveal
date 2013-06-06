@@ -20,7 +20,7 @@ gem 'motion-reveal'
 ### Without Bundler
 
   1. install the motion-reveal gem  
-    ```$ gem install motion-sparkinspector```
+    ```$ gem install motion-reveal```
   2. add to your RubyMotion app Rakefile:
   
     ```ruby
