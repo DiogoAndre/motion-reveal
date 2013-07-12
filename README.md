@@ -6,7 +6,7 @@ This is a very simple gem. Check the [lib/motion-reveal.rb](https://github.com/D
 
 ##usage
 
-[Download Reveal](http://www.revealapp.com) (currently on β v0.8.1) and move it to your applications folder (/Applications)
+[Download Reveal](http://www.revealapp.com) and move it to your applications folder (/Applications)
 
 ### With Bundler
 
