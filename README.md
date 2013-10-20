@@ -30,8 +30,8 @@ gem 'motion-reveal'
 
 ### Cocoapods
 
-There is also [Cocoapod spec](http://cocoadocs.org/docsets/Reveal-iOS-SDK/) for using Reveal. You can integrate Cocoapods into your Rubymotion project using the excelent [motion-cocoapod](http://github.com/HipByte/motion-cocoapods) gem.
- 
+There is also a [Cocoapod spec](http://cocoadocs.org/docsets/Reveal-iOS-SDK/) for Reveal. You can integrate Cocoapods into your Rubymotion project using the excelent [motion-cocoapod](http://github.com/HipByte/motion-cocoapods) gem.
+Check [Mark Rickert's blog](http://blog.markrickert.me/using-revealapp-with-rubymotion) for a few tips on how to integrate both.
 ### Have Fun!  
 
 ##thanks
