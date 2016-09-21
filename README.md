@@ -36,3 +36,5 @@ Check [Mark Rickert's blog](http://blog.markrickert.me/using-revealapp-with-ruby
 
 ##thanks
 * [@TBD](https://github.com/TBD/) - gem idea and boilerplate code
+* [@y8](https://github.com/y8/) - Fix compatiblity issue with Reveal 1.5 
+* [@dchersey](https://github.com/TBD/) Reveal 2.0 support
